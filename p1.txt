@@ -1,1 +1,2 @@
 Carries the E484K mutation
+Also carries N501Y
